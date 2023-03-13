@@ -1,33 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@Prasadwandhekar 
-Prasadwandhekar
-/
-cv
-Public
-Cannot fork because you own this repository and are not a member of any organizations.
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-cv/prasad10.html
-@Prasadwandhekar
-Prasadwandhekar Add files via upload
-Latest commit e783e1b 13 hours ago
- History
- 1 contributor
-82 lines (78 sloc)  2.71 KB
+
 
 <!DOCTYPE html>
 <html lang="en">
